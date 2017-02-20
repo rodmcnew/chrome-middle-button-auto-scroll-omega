@@ -1,0 +1,13 @@
+{
+   "content_scripts": [ {
+      "all_frames": true,
+      "js": [ "index.js" ],
+      "matches": [ "http://*/*", "https://*/*", "ftp://*/*" ],
+      "run_at": "document_start"
+   } ],
+   "description": "Allows you to click the middle mouse button to enabled automatic scrolling on web pages",
+   "manifest_version": 2,
+   "minimum_chrome_version": "55.0.0.0",
+   "name": "MiddleButtonAutoScrollOmega",
+   "version": "0.0.1"
+}
