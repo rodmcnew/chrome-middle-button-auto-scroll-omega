@@ -14,9 +14,9 @@
     }
   ],
   "icons": {
-    "400": "icon400.png"
+    "128": "icon128.png"
   },
-  "description": "Allows you to click the middle mouse button to enable automatic scrolling on web pages. This is similar to the feature that is standard in Firefox.",
+  "description": "Adds middle mouse button auto-scroll support to chrome.",
   "manifest_version": 2,
   "minimum_chrome_version": "55.0.0.0",
   "name": "Middle Button Auto Scroll Omega",
