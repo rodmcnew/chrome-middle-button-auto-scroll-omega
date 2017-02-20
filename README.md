@@ -1,7 +1,5 @@
 # How to Install
-1. Download [chrome-middle-button-auto-scroll-omega.crx](http://github.com/rodmcnew/chrome-middle-button-auto-scroll-omega/raw/master/chrome-middle-button-auto-scroll-omega.crx).
-2. Type chrome://extensions in Chrome's address bar to open the extensions window.
-3. Drag [chrome-middle-button-auto-scroll-omega.crx] onto Chrome's extensions window.
+[Visit the chrome web store](https://chrome.google.com/webstore/detail/middle-button-auto-scroll/dlapgoopakacdcilalmhimknihkfcffc).
 
 # BSD License:
  Copyright (c) 2015, Rod Mcnew
