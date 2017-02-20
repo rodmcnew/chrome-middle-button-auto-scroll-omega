@@ -1,5 +1,5 @@
 # How to Install
-[Visit the chrome web store](https://chrome.google.com/webstore/detail/middle-button-auto-scroll/dlapgoopakacdcilalmhimknihkfcffc).
+Visti the [chrome web store](https://chrome.google.com/webstore/detail/middle-button-auto-scroll/dlapgoopakacdcilalmhimknihkfcffc).
 
 # BSD License:
  Copyright (c) 2015, Rod Mcnew
