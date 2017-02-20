@@ -1,13 +1,24 @@
 {
-   "content_scripts": [ {
+  "content_scripts": [
+    {
       "all_frames": true,
-      "js": [ "index.js" ],
-      "matches": [ "http://*/*", "https://*/*", "ftp://*/*" ],
+      "js": [
+        "index.js"
+      ],
+      "matches": [
+        "http://*/*",
+        "https://*/*",
+        "ftp://*/*"
+      ],
       "run_at": "document_start"
-   } ],
-   "description": "Allows you to click the middle mouse button to enabled automatic scrolling on web pages",
-   "manifest_version": 2,
-   "minimum_chrome_version": "55.0.0.0",
-   "name": "MiddleButtonAutoScrollOmega",
-   "version": "0.0.1"
+    }
+  ],
+  "icons": {
+    "400": "icon400.png"
+  },
+  "description": "Allows you to click the middle mouse button to enable automatic scrolling on web pages. This is similar to the feature that is standard in Firefox.",
+  "manifest_version": 2,
+  "minimum_chrome_version": "55.0.0.0",
+  "name": "Middle Button Auto Scroll Omega",
+  "version": "0.0.1"
 }
